@@ -1,4 +1,4 @@
-name: "Gary Flom's Weekly Seromns"
+name: "Gary Flom's Seromns"
 favicon: null
 layout_spectrum: 0.902255849679932
 typography_spectrum: 0.11685816757380962
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#A690A4'
-    - '#B68F9D'
-    - '#C8ACAB'
-    - '#FBB9BF'
-    - '#E376B7'
-  brandStrength: 0.48464060039259493
-  lightness: 0.7569727832451463
+    - '#f4f4f6'
+    - '#50433a'
+    - '#24160d'
+    - '#dd9184'
+    - '#96735d'
+  brandStrength: 0.3125
+  lightness: 0.6875
   saturation: 0.028795671416446567
   rhythmicContrast: 0.351674065226689
 purpose: []
